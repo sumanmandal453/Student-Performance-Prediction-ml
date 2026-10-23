@@ -196,8 +196,8 @@ calculated summaries for exact statistics.
 
 ### 1. Distribution of Final Student Grades
 
-(<img width="1042" height="615" alt="image" src="https://github.com/user-attachments/assets/6897e218-5dee-4a3a-aa26-87d3df4430df" />
-)
+<img width="1042" height="615" alt="image" src="https://github.com/user-attachments/assets/6897e218-5dee-4a3a-aa26-87d3df4430df" />
+
 
 **What the chart shows**
 
@@ -217,8 +217,8 @@ different numbers of students.
 
 ### 2. Final Grade Comparison by Course
 
-![Box plot comparing final grades by
-course](screenshots/02-grade-comparison-by-course.png)
+<img width="846" height="596" alt="image" src="https://github.com/user-attachments/assets/0d02ecd3-1428-4e81-a55c-6576658dc7c0" />
+
 
 **What the chart shows**
 
@@ -235,8 +235,8 @@ between subjects is statistically significant.
 
 ### 3. Study Time vs Final Grade
 
-![Box plot of study-time category versus final
-grade](screenshots/03-study-time-vs-final-grade.png)
+<img width="897" height="597" alt="image" src="https://github.com/user-attachments/assets/a99528a9-ae3a-4786-b808-df9b30dd7355" />
+
 
 **What the chart shows**
 
@@ -259,8 +259,8 @@ explain students' grades. This is association, not proof of causation.
 
 ### 4. Past Class Failures vs Final Grade
 
-![Box plot of past failures versus final
-grade](screenshots/04-past-failures-vs-final-grade.png)
+<img width="902" height="591" alt="image" src="https://github.com/user-attachments/assets/3836d798-b7a3-4cba-98ff-0d129cfd4b7d" />
+
 
 **What the chart shows**
 
@@ -282,8 +282,8 @@ lower grades.
 
 ### 5. Correlation Heatmap Between Numerical Variables
 
-![Correlation heatmap for numerical
-variables](screenshots/05-numerical-correlation-heatmap.png)
+<img width="935" height="651" alt="image" src="https://github.com/user-attachments/assets/5c9e1c42-3a5c-4a3e-a1e2-1b36027109e1" />
+
 
 **What the chart shows**
 
@@ -336,8 +336,9 @@ causation.
 
 ### 6. Actual vs Predicted Grades --- Sample Rows
 
-![Table showing actual and predicted grade
-examples](screenshots/06-actual-vs-predicted-table.png)
+<img width="446" height="460" alt="image" src="https://github.com/user-attachments/assets/51e61bc8-d6ea-45e4-96eb-121a0474b728" />
+
+
 
 **What the output shows**
 
@@ -355,8 +356,8 @@ calculated over the full test set.
 
 ### 7. Model Evaluation Results
 
-![Linear Regression model evaluation
-metrics](screenshots/07-model-evaluation-metrics.png)
+<img width="542" height="177" alt="image" src="https://github.com/user-attachments/assets/7c1069c7-ee21-4507-abd2-8c142a318393" />
+
 
 The recorded test-set metrics are:
 
@@ -400,8 +401,7 @@ and regression should not be described using classification accuracy.
 
 ### 8. Actual vs Predicted Student Grades
 
-![Scatter plot of actual versus predicted final
-grades](screenshots/08-actual-vs-predicted-plot.png)
+<img width="872" height="651" alt="image" src="https://github.com/user-attachments/assets/4006fd0b-adb3-44da-88e0-ad4d7e57ea3e" />
 
 **What the chart shows**
 
