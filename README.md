@@ -197,7 +197,8 @@ calculated summaries for exact statistics.
 ### 1. Distribution of Final Student Grades
 
 ![Distribution of final grades for Maths and
-Portuguese](screenshots/01-grade-distribution.png)
+Portuguese](<img width="1042" height="615" alt="image" src="https://github.com/user-attachments/assets/6897e218-5dee-4a3a-aa26-87d3df4430df" />
+)
 
 **What the chart shows**
 
