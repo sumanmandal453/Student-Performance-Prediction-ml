@@ -568,18 +568,8 @@ Week-3-Student-Performance-Prediction/
     ├── 07-model-evaluation-metrics.png
     └── 08-actual-vs-predicted-plot.png
 ```
-
-Add your completed `.ipynb` notebook to the project folder before
-publishing it to GitHub.
-
-## Acknowledgements
-
-Created as a Week 3 Data Science with Python learning project, applying
-Exploratory Data Analysis and a Scikit-learn Linear Regression workflow
-to the provided student-performance datasets.
-
 ------------------------------------------------------------------------
 
-**Author:** Add your name here\
-**Project type:** Educational / beginner machine learning project\
+**Author:** Suman Mandal
+**Project type:** beginner machine learning project
 **Primary task:** Regression --- predicting final student grades (`G3`)
