@@ -571,5 +571,7 @@ Week-3-Student-Performance-Prediction/
 ------------------------------------------------------------------------
 
 **Author:** Suman Mandal
+
 **Project type:** beginner machine learning project
+
 **Primary task:** Regression --- predicting final student grades (`G3`)
